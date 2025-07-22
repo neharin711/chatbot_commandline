@@ -1,4 +1,4 @@
-# Task Manager Chatbot 📝🤖
+# Task Manager Chatbot 
 
 A simple command-line chatbot built using Python to help you manage daily tasks and reminders efficiently.
 
